@@ -1,0 +1,13 @@
+*.mp3
+*.mp4
+*.wav
+separated/
+tmp_*.jpg
+bridge.jpg
+raw_*.mp4
+temp_*
+/compressed.json
+/video_blueprint.txt
+transcript_cache.json
+__pycache__/
+.env
