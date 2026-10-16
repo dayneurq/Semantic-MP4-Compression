@@ -1,0 +1,854 @@
+{
+  "total_duration": 600.9,
+  "sample_rate": 44100,
+  "dialogue": [
+    {
+      "start": 0.0,
+      "end": 1.0100680272108844,
+      "duration": 1.0100680272108844,
+      "text": "bum",
+      "speaker": "SPEAKER_00",
+      "delivery": "neutral conversational tone",
+      "volume_db": -37.113426208496094
+    },
+    {
+      "start": 1.6718367346938776,
+      "end": 3.4017233560090703,
+      "duration": 1.7298866213151927,
+      "text": "bum bum",
+      "speaker": "Unknown",
+      "delivery": "neutral conversational tone",
+      "volume_db": -36.83252716064453
+    },
+    {
+      "start": 6.606077097505669,
+      "end": 28.363174603174603,
+      "duration": 21.757097505668934,
+      "text": "She wore blue velvet Bluer than velvet was the night Softer than satin was the light From the stars",
+      "speaker": "SPEAKER_02",
+      "delivery": "The delivery is warm and smooth, evoking a sense of nostalgia and romance. The emotional tone is calm and tender, with a gentle intensity that feels intimate and soothing. The volume is soft to moderate, creating a dreamy atmosphere, and the pacing is slow and deliberate, allowing each word to flow gracefully into the next. The vocal quality is rich and velvety, as if the singer is savoring every syllable, with subtle inflections and a slight lingering on certain words to draw out their emotional impact. The overall effect is one of serene affection, evoking images of a serene, moonlit night.",
+      "volume_db": -21.316139221191406
+    },
+    {
+      "start": 29.628662131519274,
+      "end": 97.41931972789115,
+      "duration": 67.79065759637187,
+      "text": "She wore blue velvet Bluer than velvet were her eyes Warmer than May, her tender sighs Love was ours Ours, love, I held tightly Feeling the rapture grow Like a flame burning brightly But when she fled Gone was the glow of blue velvet But in my heart still hold you Life is that warm perfume",
+      "speaker": "SPEAKER_02",
+      "delivery": "The delivery is smooth and calm, creating a warm and romantic atmosphere. The emotional tone is tender and nostalgic, with a gentle sense of longing. The volume is soft to moderate, and the singer\u2019s voice is not strained, but rather velvety and melodic. The pacing is slow and deliberate, emphasizing each word with care, reflecting the sentimental and reflective nature of the lyrics. The vocal quality is rich and clear, with a slight breathiness that adds to the intimate and tender feel of the performance.",
+      "volume_db": -22.7664737701416
+    },
+    {
+      "start": 115.68181405895692,
+      "end": 116.74993197278911,
+      "duration": 1.0681179138321966,
+      "text": "Oh",
+      "speaker": "Unknown",
+      "delivery": "neutral conversational tone",
+      "volume_db": -35.71061706542969
+    },
+    {
+      "start": 123.17024943310658,
+      "end": 138.76244897959182,
+      "duration": 15.592199546485247,
+      "text": "Lobs, lobs, lobs, Lumber is the pines, Lumberton, U.S.A.! It's a sunny, woodsy day in Lumberton.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The speaker delivers the lines in a lively and enthusiastic tone, conveying a sense of cheerful excitement. The volume is relatively high, with an almost announcer-like quality, as if broadcasting to a wide audience. The pacing is rhythmic and upbeat, with a confident and steady cadence that creates a sense of joy and positivity. The voice is clear and smooth, without any strain or hesitation, and there\u2019s a playful, almost promotional emphasis on words like \u201cLumberton, U.S.A.!\u201d to drive home the exuberant tone. Overall, the delivery feels warm, inviting, and full of energy.",
+      "volume_db": -26.531517028808594
+    },
+    {
+      "start": 140.0627664399093,
+      "end": 140.67809523809524,
+      "duration": 0.6153287981859421,
+      "text": "What the hell is that?",
+      "speaker": "SPEAKER_01",
+      "delivery": "neutral conversational tone",
+      "volume_db": -28.464202880859375
+    },
+    {
+      "start": 141.4443537414966,
+      "end": 145.00861678004534,
+      "duration": 3.564263038548745,
+      "text": "the mighty W.O.O.D., the Musical Voice of Lumber.",
+      "speaker": "SPEAKER_01",
+      "delivery": "The delivery is confident and enthusiastic, with a warm and inviting emotional tone that exudes pride and excitement. The volume is at a normal speaking level, but the vocal intensity suggests a sense of grandeur and importance. The pacing is steady and deliberate, emphasizing each word clearly, especially on \"mighty\" and \"musical voice,\" which adds a charismatic rhythm to the delivery. The vocal quality is smooth and clear, with a slight richness that adds to the overall authoritative and engaging presence. There\u2019s a noticeable emphasis on key words, lending a sense of flair and significance to the phrase.",
+      "volume_db": -30.409528732299805
+    },
+    {
+      "start": 145.67038548752834,
+      "end": 151.26639455782313,
+      "duration": 5.596009070294798,
+      "text": "With the sound of the falling tree, it's 9.30!",
+      "speaker": "SPEAKER_01",
+      "delivery": "The voice is delivered in a calm and measured tone, with a steady and relaxed emotional quality. The volume is at a normal speaking level, neither too loud nor too soft, giving a sense of confidence and composure. The pacing is even and deliberate, with no signs of rushing or hesitation. The vocal quality is smooth and clear, without any breathiness or strain. There is a slight upward inflection at the end of the sentence, particularly on \"9.30!\", adding a subtle note of cheerfulness or emphasis.",
+      "volume_db": -27.925092697143555
+    },
+    {
+      "start": 151.8120634920635,
+      "end": 153.99473922902493,
+      "duration": 2.1826757369614427,
+      "text": "There's a whole lot of wood waitin' out there.",
+      "speaker": "SPEAKER_01",
+      "delivery": "The line is delivered with a warm and confident tone, suggesting a sense of ease or familiarity with the statement. The volume is steady and clear, at a normal speaking level, indicating no urgency or stress. The pacing is smooth and conversational, not rushed or hesitant, with a slight sense of rhythm that sounds deliberate but relaxed. The vocal quality is firm and clear, without any noticeable raspiness or shakiness. There's a subtle emphasis on \"whole lot\" and \"wood,\" giving the sentence a slightly playful or matter-of-fact flavor.",
+      "volume_db": -25.720338821411133
+    },
+    {
+      "start": 178.05061224489796,
+      "end": 179.58312925170068,
+      "duration": 1.5325170068027205,
+      "text": "",
+      "speaker": "SPEAKER_02",
+      "delivery": "neutral conversational tone",
+      "volume_db": -40.37628173828125
+    },
+    {
+      "start": 183.878820861678,
+      "end": 185.48099773242632,
+      "duration": 1.602176870748309,
+      "text": "Your son Jeffrey's here to see you.",
+      "speaker": "SPEAKER_02",
+      "delivery": "The line is delivered with a calm and warm emotional tone, suggesting a sense of reassurance or normality. The volume is moderate, maintaining a steady, clear, and natural speaking voice. The pacing is measured and smooth, without any rush, giving it a confident and relaxed rhythm. The vocal quality is soft and even, without strain or shakiness. There\u2019s a slight upward inflection at the end of the sentence, which conveys attentiveness or a gentle inquiry.",
+      "volume_db": -38.581241607666016
+    },
+    {
+      "start": 213.41460317460317,
+      "end": 214.05315192743765,
+      "duration": 0.6385487528344811,
+      "text": "",
+      "speaker": "Unknown",
+      "delivery": "neutral conversational tone",
+      "volume_db": -42.50483703613281
+    },
+    {
+      "start": 315.59401360544217,
+      "end": 320.35410430839005,
+      "duration": 4.760090702947878,
+      "text": "Do you have a Detective Williams still working here? Yes, he's up in room 221.",
+      "speaker": "SPEAKER_04",
+      "delivery": "The line is delivered with a calm and neutral emotional tone, suggesting an everyday conversational exchange without any strong feelings attached. The volume is at a normal speaking level, and the pacing is steady and confident, without rushing or hesitation. The vocal quality is clear and smooth, with no noticeable strain or breathiness. The speaker emphasizes the key informative part \"room 221\" slightly, giving the response a sense of straightforward efficiency.",
+      "volume_db": -34.86125564575195
+    },
+    {
+      "start": 321.3990022675737,
+      "end": 322.25814058956917,
+      "duration": 0.8591383219954878,
+      "text": "through that door.",
+      "speaker": "SPEAKER_01",
+      "delivery": "neutral conversational tone",
+      "volume_db": -34.71074295043945
+    },
+    {
+      "start": 327.018231292517,
+      "end": 328.57396825396825,
+      "duration": 1.5557369614512595,
+      "text": "Thank you.",
+      "speaker": "Unknown",
+      "delivery": "neutral conversational tone",
+      "volume_db": -45.970001220703125
+    },
+    {
+      "start": 339.63827664399093,
+      "end": 340.31165532879817,
+      "duration": 0.6733786848072327,
+      "text": "Detective Williams.",
+      "speaker": "SPEAKER_04",
+      "delivery": "neutral conversational tone",
+      "volume_db": -29.902971267700195
+    },
+    {
+      "start": 348.1367800453515,
+      "end": 353.51219954648525,
+      "duration": 5.375419501133763,
+      "text": "My name is Jeffrey Beaumont, I live near you. I believe you know my father, Tom Beaumont, Beaumont's Hardware Store.",
+      "speaker": "SPEAKER_04",
+      "delivery": "The line is delivered in a calm and steady manner, with a neutral emotional tone suggesting a polite and slightly formal introduction. The volume is at a normal speaking level, neither loud nor particularly soft. The pacing is measured and even, without any rush or hesitation, indicating confidence and clarity in the speaker\u2019s intent. The vocal quality is smooth and clear, with each word enunciated distinctly, making the delivery sound articulate. There is a slight emphasis on names like \"Jeffrey Beaumont\" and \"Tom Beaumont,\" showing the speaker\u2019s intention to establish identity and connection.",
+      "volume_db": -33.265323638916016
+    },
+    {
+      "start": 354.92861678004533,
+      "end": 355.8574149659864,
+      "duration": 0.9287981859410479,
+      "text": "I understand he's in the hospital.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -37.747947692871094
+    },
+    {
+      "start": 358.0633106575964,
+      "end": 358.75990929705216,
+      "duration": 0.6965986394557717,
+      "text": "Okay, I guess.",
+      "speaker": "SPEAKER_04",
+      "delivery": "neutral conversational tone",
+      "volume_db": -43.70615005493164
+    },
+    {
+      "start": 360.6871655328798,
+      "end": 361.89460317460316,
+      "duration": 1.2074376417233452,
+      "text": "They're doing tests, that's why I'm home.",
+      "speaker": "SPEAKER_04",
+      "delivery": "The delivery of the line appears calm and matter-of-fact, with a relatively neutral emotional tone. The speaker\u2019s volume is at a normal speaking level, with no noticeable strain or intensity. The pacing is steady and measured, neither rushed nor slow, and the rhythm feels casual but controlled. The vocal quality is clear and even, without any noticeable raspiness or breathiness. There is little emphasis on specific words, suggesting a straightforward and informative manner of speaking.",
+      "volume_db": -30.480825424194336
+    },
+    {
+      "start": 363.1136507936508,
+      "end": 367.9434013605442,
+      "duration": 4.829750566893438,
+      "text": "Anyway, I was at the hospital this morning and coming home through the field behind our neighborhood, there behind Vista.",
+      "speaker": "SPEAKER_04",
+      "delivery": "The delivery of the line is calm and measured, with a steady, natural speaking volume. The speaker's tone feels neutral and matter-of-fact, suggesting a sense of routine or reflection rather than any strong emotion. The pacing is moderate and deliberate, allowing each phrase to flow smoothly without any hurry or hesitation. The vocal quality is clear and steady, with no noticeable strain or shakiness, conveying a stable and composed demeanor. There's a slight rising inflection towards the end, indicating perhaps a casual recounting of events rather than a dramatic conclusion.",
+      "volume_db": -31.166017532348633
+    },
+    {
+      "start": 368.83736961451245,
+      "end": 369.37142857142857,
+      "duration": 0.5340589569161125,
+      "text": "I uh...",
+      "speaker": "SPEAKER_04",
+      "delivery": "neutral conversational tone",
+      "volume_db": -39.080650329589844
+    },
+    {
+      "start": 370.50920634920635,
+      "end": 371.22902494331066,
+      "duration": 0.7198185941043107,
+      "text": "Found it in here.",
+      "speaker": "SPEAKER_04",
+      "delivery": "neutral conversational tone",
+      "volume_db": -39.105003356933594
+    },
+    {
+      "start": 374.09668934240364,
+      "end": 374.6655782312925,
+      "duration": 0.5688888888888641,
+      "text": "A human ear?",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -32.24985885620117
+    },
+    {
+      "start": 378.1834013605442,
+      "end": 379.90167800453514,
+      "duration": 1.7182766439909187,
+      "text": "That's right, let's take a look at it.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -34.3557243347168
+    },
+    {
+      "start": 386.36843537414967,
+      "end": 387.33206349206347,
+      "duration": 0.9636281179137995,
+      "text": "That's a human ear, all right.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The line is delivered with a calm and matter-of-fact emotional tone, suggesting the speaker is making an observation without any particular alarm or excitement. The volume is at a normal, conversational level, indicating the speaker is not trying to draw attention or react strongly. The pacing is steady and confident, with no sign of hesitation or uncertainty. The vocal quality is relatively clear and smooth, without significant raspiness or tremor. There\u2019s a subtle emphasis on \"human ear,\" which gives the remark a slightly dry or neutral, almost clinical feel.",
+      "volume_db": -31.40436363220215
+    },
+    {
+      "start": 388.91102040816327,
+      "end": 393.82204081632653,
+      "duration": 4.911020408163267,
+      "text": "Let's take it down to the coroner's office and see what they make of it. Then I want you to show me exactly where you found it.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The delivery of the line is calm and controlled, suggesting a sense of authority and professionalism. The speaker uses a firm and steady tone, indicating confidence and perhaps experience in dealing with such situations. The pace of the speech is measured and deliberate, giving the impression that the speaker is thinking through each instruction carefully. The vocal quality is clear and smooth, with no hints of hesitation or uncertainty. There is mild emphasis on key directive words like \"take it\" and \"show me,\" subtly reinforcing the speaker's leadership role.",
+      "volume_db": -32.41529083251953
+    },
+    {
+      "start": 399.3251700680272,
+      "end": 402.4018140589569,
+      "duration": 3.0766439909297105,
+      "text": "the morgue records, but I don't recall anything coming in minus an ear.",
+      "speaker": "SPEAKER_00",
+      "delivery": "The line is delivered in a calm and measured tone, suggesting a sense of focus and control. The volume is at a normal speaking level, indicating a matter-of-fact and relaxed attitude without any sense of urgency or emotion. The pacing is steady and deliberate, as though the speaker is reflecting or carefully considering the information. The voice quality is clear and smooth, without any shakiness or strain. There is a small hint of curiosity or mild surprise on the emphasis of \"minus an ear,\" which subtly highlights the oddity of the statement.",
+      "volume_db": -32.92817687988281
+    },
+    {
+      "start": 403.0984126984127,
+      "end": 405.3507482993197,
+      "duration": 2.252335600907031,
+      "text": "The person may very well still be alive somewhere.",
+      "speaker": "SPEAKER_00",
+      "delivery": "neutral conversational tone",
+      "volume_db": -30.932357788085938
+    },
+    {
+      "start": 406.15183673469386,
+      "end": 407.87011337868483,
+      "duration": 1.7182766439909756,
+      "text": "What can you tell about the person from the ear?",
+      "speaker": "SPEAKER_00",
+      "delivery": "The delivery of the line is calm and measured, with a steady and clear vocal quality. The speaker maintains a normal speaking volume, without any strain or urgency in their voice. The pacing is moderate and deliberate, suggesting a thoughtful or inquisitive demeanor. The emotional tone is neutral, without any strong emotional inflections, making it seem like the speaker is asking a genuine, perhaps curious question. There\u2019s a slight emphasis on the word \u201cear,\u201d giving it a subtle but noticeable importance in the question.",
+      "volume_db": -32.78232192993164
+    },
+    {
+      "start": 408.6131519274376,
+      "end": 410.58684807256236,
+      "duration": 1.973696145124734,
+      "text": "Well, once the tests are done, quite a lot.",
+      "speaker": "SPEAKER_00",
+      "delivery": "The line is delivered in a calm and measured tone, with a sense of control and composure. The speaker maintains a normal speaking volume, without any sign of strain, and the vocal intensity is fairly even and relaxed. The pacing is steady and deliberate, giving the impression of careful thought and perhaps a slight air of authority or confidence. The voice quality is clear and smooth, without any noticeable tremor or breathiness. There is a subtle emphasis on the word \"well,\" which adds a small element of reflection or consideration before continuing with the rest of the statement.",
+      "volume_db": -31.290681838989258
+    },
+    {
+      "start": 411.96843537414964,
+      "end": 415.2540589569161,
+      "duration": 3.2856235827664477,
+      "text": "sex, blood type, whether or not the ear came off a dead person.",
+      "speaker": "SPEAKER_00",
+      "delivery": "neutral conversational tone",
+      "volume_db": -31.773181915283203
+    },
+    {
+      "start": 416.1944671201814,
+      "end": 416.7401360544218,
+      "duration": 0.545668934240382,
+      "text": "Also.",
+      "speaker": "SPEAKER_00",
+      "delivery": "neutral conversational tone",
+      "volume_db": -27.331695556640625
+    },
+    {
+      "start": 417.7966439909297,
+      "end": 419.8632199546485,
+      "duration": 2.066575963718833,
+      "text": "It looks like the ear was cut off with scissors.",
+      "speaker": "SPEAKER_00",
+      "delivery": "neutral conversational tone",
+      "volume_db": -28.47017478942871
+    },
+    {
+      "start": 450.4206802721088,
+      "end": 451.23337868480724,
+      "duration": 0.8126984126984098,
+      "text": "I'm going out for a while.",
+      "speaker": "SPEAKER_04",
+      "delivery": "The tone of the delivery is calm and relaxed, suggesting a laid-back emotional state. The volume is at a normal speaking level, with no strain or intensity, indicating a casual and unhurried interaction. The pacing feels even and steady, neither rushed nor particularly slow, reflecting a sense of ease. The voice quality is smooth and clear, with no notable raspiness or breathiness. There\u2019s a slight upward inflection at the end, making it sound polite but nonchalant, as if the speaker is announcing their intention without expecting any objection or major response.",
+      "volume_db": -29.524513244628906
+    },
+    {
+      "start": 453.27673469387753,
+      "end": 454.31002267573695,
+      "duration": 1.0332879818594165,
+      "text": "No, I'm just gonna walk around.",
+      "speaker": "SPEAKER_04",
+      "delivery": "neutral conversational tone",
+      "volume_db": -29.64566421508789
+    },
+    {
+      "start": 455.8193197278912,
+      "end": 459.88281179138323,
+      "duration": 4.063492063492049,
+      "text": "Well, Jeffrey, you're not going down by Lincoln, are you? No, I'm just going to walk around the neighborhood.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The voice is delivered in a calm and relaxed tone, suggesting a casual conversation. The volume is normal and steady, without any strain or urgency, indicating that the speaker feels at ease. The pacing is moderate and unrushed, with a natural and conversational rhythm. The vocal quality is clear and smooth, reflecting a sense of comfort and familiarity. There\u2019s a slight upward inflection at the end of the first sentence, posing it as a question, and the second sentence has a gentle, matter-of-fact emphasis, reinforcing a laid-back attitude.",
+      "volume_db": -30.34394073486328
+    },
+    {
+      "start": 517.340589569161,
+      "end": 522.1819501133787,
+      "duration": 4.84136054421765,
+      "text": "You",
+      "speaker": "Unknown",
+      "delivery": "The delivery comes across as calm and deliberate, with a very low intensity. The tone feels neutral, possibly with a slight touch of curiosity or neutrality rather than any strong emotion. The volume is soft, almost as if the speaker is being introspective or cautious. The pacing is slow and measured, giving the word a sense of purpose without urgency. The vocal quality is quite smooth and even, without noticeable inflection or dramatic emphasis.",
+      "volume_db": -32.191654205322266
+    },
+    {
+      "start": 540.6766439909297,
+      "end": 542.6387301587301,
+      "duration": 1.9620861678004076,
+      "text": "Is Tim Williams here? Oh, yes!",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -36.78490447998047
+    },
+    {
+      "start": 543.6720181405896,
+      "end": 544.3337868480726,
+      "duration": 0.6617687074830201,
+      "text": "Come on in.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -30.116575241088867
+    },
+    {
+      "start": 551.7990022675737,
+      "end": 554.6550566893424,
+      "duration": 2.856054421768704,
+      "text": "Oh no Jeffrey, you found something which is very interesting to us.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -38.035850524902344
+    },
+    {
+      "start": 555.9321541950113,
+      "end": 556.5590929705215,
+      "duration": 0.6269387755102116,
+      "text": "Very interesting.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -41.50749588012695
+    },
+    {
+      "start": 557.5227210884353,
+      "end": 558.8694784580499,
+      "duration": 1.3467573696145791,
+      "text": "I know you must be curious to know more.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -33.216182708740234
+    },
+    {
+      "start": 560.506485260771,
+      "end": 563.1187301587302,
+      "duration": 2.612244897959158,
+      "text": "but I'm afraid I'm gonna have to ask you not only not to tell anybody.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -39.43248748779297
+    },
+    {
+      "start": 567.9600907029478,
+      "end": 569.6203174603174,
+      "duration": 1.660226757369628,
+      "text": "One day when it's all sewed up.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The line is delivered with a calm and somewhat reflective emotional tone. The speaker\u2019s volume and vocal intensity are at a normal speaking level, conveying a sense of thoughtfulness or resignation. The pacing is relatively steady and deliberate, not rushed but maintaining a natural flow, suggesting the speaker might be pondering something. The vocal quality is clear with a smooth texture, devoid of any noticeable strain or tension. There\u2019s a subtle inflection on \"all sewed up,\" which highlights a sense of finality or closure being expressed by the speaker.",
+      "volume_db": -24.95614242553711
+    },
+    {
+      "start": 570.9090249433107,
+      "end": 571.5243537414966,
+      "duration": 0.6153287981859421,
+      "text": "Oh, it's an old...",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -33.203338623046875
+    },
+    {
+      "start": 573.4051700680272,
+      "end": 574.6706575963719,
+      "duration": 1.2654875283446927,
+      "text": "Right now, though, I can't.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -23.000473022460938
+    },
+    {
+      "start": 575.5994557823129,
+      "end": 576.2728344671202,
+      "duration": 0.6733786848072896,
+      "text": "I understand",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -36.61086654663086
+    },
+    {
+      "start": 577.4918820861678,
+      "end": 579.2565986394558,
+      "duration": 1.7647165532879399,
+      "text": "Just real curious, like you said.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -29.000839233398438
+    },
+    {
+      "start": 580.7542857142857,
+      "end": 582.5190022675737,
+      "duration": 1.7647165532879399,
+      "text": "I was the same way myself when I was your age.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The voice is calm and reflective, with a warm and slightly nostalgic emotional tone. The volume is moderate, with an even and steady vocal intensity that suggests the speaker is at ease. The pacing is measured and thoughtful, with a smooth and reassuring quality, as though the speaker is reminiscing or offering a personal anecdote. There's a gentle inflection on certain words, adding a touch of familiarity and sincerity to the delivery. Overall, the voice conveys understanding and empathy through its balanced and relaxed manner.",
+      "volume_db": -37.008140563964844
+    },
+    {
+      "start": 584.8758276643991,
+      "end": 587.8828117913832,
+      "duration": 3.0069841269840936,
+      "text": "I guess that's what got me into this business. Must be great.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The delivery has a calm and reflective tone, indicating a sense of casual introspection. The volume is normal, with a steady and clear vocal intensity, suggesting the speaker is relaxed and not emotionally heightened. The pacing is measured and slightly deliberate, as if the speaker is thoughtfully recalling a past decision or experience. The voice quality is smooth and even, without any strain or breathiness, projecting confidence and ease in the conversation. There is a subtle shift in inflection at the end, gently indicating a sense of mild amusement or satisfaction.",
+      "volume_db": -31.41954803466797
+    },
+    {
+      "start": 589.5198185941043,
+      "end": 590.4253968253968,
+      "duration": 0.9055782312924521,
+      "text": "It's horrible too.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The delivery of the line has a somber and serious emotional tone, suggesting a sense of resignation or sadness. The volume is relatively low, with a restrained, calm intensity that provides the impression of someone reflecting quietly. The pacing is slow and deliberate, as if the speaker is carefully choosing their words or struggling with the weight of what they are saying. The vocal quality is clear yet slightly heavy, possibly with a subtle hint of weariness. There\u2019s a slight downward inflection at the end of the phrase, emphasizing the gravity and unpleasantness of the subject being discussed.",
+      "volume_db": -42.06771469116211
+    },
+    {
+      "start": 592.8286621315193,
+      "end": 594.8952380952381,
+      "duration": 2.066575963718833,
+      "text": "I'm sorry, Jeffrey. That's the way it has to be.",
+      "speaker": "SPEAKER_03",
+      "delivery": "The delivery comes across as calm and measured, suggesting a sense of resignation or quiet acceptance. The tone is somewhat somber and subdued, with a slight emotional weight that leans towards sadness or regret. The volume is relatively soft, not overpowering, but spoken in a steady and clear manner. The pacing is slow and deliberate, showing that the speaker is carefully choosing their words or reluctantly delivering the message. The voice has a smooth and steady quality, without significant strain or shakiness, which adds to the controlled and perhaps resigned nature of the statement.",
+      "volume_db": -37.65641403198242
+    },
+    {
+      "start": 595.9401360544217,
+      "end": 596.520634920635,
+      "duration": 0.5804988662132473,
+      "text": "Anyway.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -21.650814056396484
+    },
+    {
+      "start": 597.8557823129252,
+      "end": 599.1096598639456,
+      "duration": 1.2538775510204232,
+      "text": "I know you do understand.",
+      "speaker": "SPEAKER_03",
+      "delivery": "neutral conversational tone",
+      "volume_db": -22.939416885375977
+    }
+  ],
+  "music": [
+    {
+      "start": 0.0,
+      "end": 39.067573696145125,
+      "duration": 39.067573696145125,
+      "description": "fast, energetic, deep, dark bass",
+      "tempo": 143.5546875,
+      "spectral_centroid": 510.5905066312929,
+      "volume_db": -34.16782760620117
+    },
+    {
+      "start": 41.26185941043084,
+      "end": 43.432925170068025,
+      "duration": 2.1710657596371874,
+      "description": "moderate, deep, dark bass",
+      "tempo": 90.0,
+      "spectral_centroid": 515.1710366244868,
+      "volume_db": -37.97697067260742
+    },
+    {
+      "start": 43.46775510204082,
+      "end": 60.00036281179138,
+      "duration": 16.532607709750565,
+      "description": "fast, energetic, warm, atmospheric",
+      "tempo": 166.70866935483872,
+      "spectral_centroid": 1173.1484628780179,
+      "volume_db": -34.09542465209961
+    },
+    {
+      "start": 60.03519274376417,
+      "end": 123.01931972789116,
+      "duration": 62.98412698412699,
+      "description": "fast, energetic, balanced, mid-range",
+      "tempo": 139.6748310810811,
+      "spectral_centroid": 2242.017584317651,
+      "volume_db": -25.405609130859375
+    },
+    {
+      "start": 123.2282993197279,
+      "end": 125.45741496598639,
+      "duration": 2.2291156462584922,
+      "description": "moderate, deep, dark bass",
+      "tempo": 90.0,
+      "spectral_centroid": 639.4582711731083,
+      "volume_db": -40.72887420654297
+    },
+    {
+      "start": 126.30494331065759,
+      "end": 128.8126984126984,
+      "duration": 2.507755102040818,
+      "description": "very slow, ambient, warm, atmospheric",
+      "tempo": 37.179631294964025,
+      "spectral_centroid": 819.8175654990356,
+      "volume_db": -42.81338119506836
+    },
+    {
+      "start": 134.7570068027211,
+      "end": 136.4172335600907,
+      "duration": 1.6602267573695997,
+      "description": "upbeat, balanced, mid-range",
+      "tempo": 120.18531976744185,
+      "spectral_centroid": 1622.3585268434592,
+      "volume_db": -38.611915588378906
+    },
+    {
+      "start": 138.00780045351473,
+      "end": 142.48925170068028,
+      "duration": 4.481451247165552,
+      "description": "slow, relaxed, balanced, mid-range",
+      "tempo": 77.1338619402985,
+      "spectral_centroid": 1888.1678834252368,
+      "volume_db": -40.87233924865723
+    },
+    {
+      "start": 143.42965986394557,
+      "end": 144.59065759637187,
+      "duration": 1.1609977324262957,
+      "description": "fast, energetic, bright, energetic",
+      "tempo": 151.99908088235293,
+      "spectral_centroid": 2608.0858517062757,
+      "volume_db": -42.379154205322266
+    },
+    {
+      "start": 144.62548752834468,
+      "end": 145.8677551020408,
+      "duration": 1.2422675736961253,
+      "description": "fast, energetic, balanced, mid-range",
+      "tempo": 258.3984375,
+      "spectral_centroid": 1615.4835980987523,
+      "volume_db": -42.666873931884766
+    },
+    {
+      "start": 149.9892970521542,
+      "end": 151.67274376417234,
+      "duration": 1.6834467120181387,
+      "description": "fast, energetic, warm, atmospheric",
+      "tempo": 198.76802884615384,
+      "spectral_centroid": 1380.3399999827132,
+      "volume_db": -42.82331848144531
+    },
+    {
+      "start": 151.69596371882085,
+      "end": 154.2269387755102,
+      "duration": 2.530975056689357,
+      "description": "upbeat, warm, atmospheric",
+      "tempo": 120.18531976744185,
+      "spectral_centroid": 1162.242996650223,
+      "volume_db": -38.43913269042969
+    },
+    {
+      "start": 154.23854875283448,
+      "end": 180.65124716553288,
+      "duration": 26.412698412698404,
+      "description": "slow, relaxed, warm, atmospheric",
+      "tempo": 70.79409246575342,
+      "spectral_centroid": 1176.714227519077,
+      "volume_db": -34.81388854980469
+    },
+    {
+      "start": 180.69768707482993,
+      "end": 183.99492063492065,
+      "duration": 3.297233560090717,
+      "description": "upbeat, warm, atmospheric",
+      "tempo": 117.45383522727273,
+      "spectral_centroid": 1298.051077225949,
+      "volume_db": -44.993003845214844
+    },
+    {
+      "start": 184.83083900226757,
+      "end": 185.9221768707483,
+      "duration": 1.0913378684807356,
+      "description": "upbeat, deep, dark bass",
+      "tempo": 112.34714673913044,
+      "spectral_centroid": 788.1352044064074,
+      "volume_db": -44.48940658569336
+    },
+    {
+      "start": 260.9922902494331,
+      "end": 269.0147845804989,
+      "duration": 8.022494331065786,
+      "description": "upbeat, warm, atmospheric",
+      "tempo": 123.046875,
+      "spectral_centroid": 1031.457544595874,
+      "volume_db": -43.68629837036133
+    },
+    {
+      "start": 271.6154195011338,
+      "end": 273.7168253968254,
+      "duration": 2.1014058956916415,
+      "description": "slow, relaxed, warm, atmospheric",
+      "tempo": 89.10290948275862,
+      "spectral_centroid": 1396.9637707353259,
+      "volume_db": -45.0745735168457
+    },
+    {
+      "start": 296.03120181405893,
+      "end": 301.6736507936508,
+      "duration": 5.6424489795918475,
+      "description": "upbeat, warm, atmospheric",
+      "tempo": 112.34714673913044,
+      "spectral_centroid": 1210.404465139957,
+      "volume_db": -43.50434112548828
+    },
+    {
+      "start": 396.94512471655327,
+      "end": 398.3615419501134,
+      "duration": 1.4164172335601393,
+      "description": "moderate, warm, atmospheric",
+      "tempo": 97.50884433962264,
+      "spectral_centroid": 851.2816476714372,
+      "volume_db": -39.082523345947266
+    },
+    {
+      "start": 420.42049886621317,
+      "end": 423.56680272108844,
+      "duration": 3.1463038548752706,
+      "description": "slow, relaxed, balanced, mid-range",
+      "tempo": 79.50721153846153,
+      "spectral_centroid": 1732.711758232789,
+      "volume_db": -44.375003814697266
+    },
+    {
+      "start": 425.55210884353744,
+      "end": 433.8416326530612,
+      "duration": 8.289523809523757,
+      "description": "slow, relaxed, warm, atmospheric",
+      "tempo": 60.799632352941174,
+      "spectral_centroid": 1201.12447173203,
+      "volume_db": -37.7268180847168
+    },
+    {
+      "start": 437.8238548752835,
+      "end": 439.61179138321995,
+      "duration": 1.7879365079364788,
+      "description": "fast, energetic, deep, dark bass",
+      "tempo": 191.40625,
+      "spectral_centroid": 609.0523747505252,
+      "volume_db": -45.96297836303711
+    },
+    {
+      "start": 439.9136507936508,
+      "end": 444.9872108843537,
+      "duration": 5.073560090702927,
+      "description": "fast, energetic, deep, dark bass",
+      "tempo": 303.99816176470586,
+      "spectral_centroid": 582.1436318935675,
+      "volume_db": -42.9688606262207
+    },
+    {
+      "start": 445.05687074829933,
+      "end": 447.82004535147394,
+      "duration": 2.7631746031746047,
+      "description": "moderate, deep, dark bass",
+      "tempo": 95.703125,
+      "spectral_centroid": 743.4843984984105,
+      "volume_db": -46.586551666259766
+    },
+    {
+      "start": 454.7744217687075,
+      "end": 456.44625850340134,
+      "duration": 1.6718367346938408,
+      "description": "moderate, deep, dark bass",
+      "tempo": 90.0,
+      "spectral_centroid": 521.7498524575593,
+      "volume_db": -42.24188232421875
+    },
+    {
+      "start": 474.60426303854877,
+      "end": 477.4951473922903,
+      "duration": 2.8908843537415123,
+      "description": "fast, energetic, deep, dark bass",
+      "tempo": 303.99816176470586,
+      "spectral_centroid": 574.7244816181985,
+      "volume_db": -43.7285270690918
+    },
+    {
+      "start": 478.5748752834467,
+      "end": 484.8442630385488,
+      "duration": 6.269387755102059,
+      "description": "moderate, deep, dark bass",
+      "tempo": 93.96306818181819,
+      "spectral_centroid": 712.844446170977,
+      "volume_db": -44.304805755615234
+    },
+    {
+      "start": 486.19102040816324,
+      "end": 487.67709750566894,
+      "duration": 1.4860770975056994,
+      "description": "upbeat, warm, atmospheric",
+      "tempo": 114.84375,
+      "spectral_centroid": 804.4084718334337,
+      "volume_db": -45.86735534667969
+    },
+    {
+      "start": 488.23437641723353,
+      "end": 489.9526530612245,
+      "duration": 1.7182766439909756,
+      "description": "moderate, deep, dark bass",
+      "tempo": 90.0,
+      "spectral_centroid": 798.9177387072091,
+      "volume_db": -46.427337646484375
+    },
+    {
+      "start": 492.19337868480727,
+      "end": 499.5657142857143,
+      "duration": 7.372335600907036,
+      "description": "moderate, deep, dark bass",
+      "tempo": 90.0,
+      "spectral_centroid": 746.2122067000013,
+      "volume_db": -43.59788131713867
+    },
+    {
+      "start": 500.73832199546484,
+      "end": 537.379410430839,
+      "duration": 36.64108843537417,
+      "description": "moderate, deep, dark bass",
+      "tempo": 90.0,
+      "spectral_centroid": 670.2528795634317,
+      "volume_db": -32.08861541748047
+    }
+  ],
+  "sound_effects": [],
+  "speakers": {
+    "SPEAKER_00": {
+      "voice_type": "neutral",
+      "characteristics": {
+        "pitch": "high, bright",
+        "pace": "moderate pace",
+        "tone": "warm, smooth",
+        "avg_pitch_hz": 622.0028686523438
+      },
+      "first_appearance": 0.0
+    },
+    "Unknown": {
+      "voice_type": "neutral",
+      "characteristics": {
+        "pitch": "high, bright",
+        "pace": "fast, energetic",
+        "tone": "warm, smooth",
+        "avg_pitch_hz": 591.5507202148438
+      },
+      "first_appearance": 1.6718367346938776
+    },
+    "SPEAKER_02": {
+      "voice_type": "male",
+      "characteristics": {
+        "pitch": "high, bright",
+        "pace": "moderate pace",
+        "tone": "warm, smooth",
+        "avg_pitch_hz": 314.5477600097656
+      },
+      "first_appearance": 6.606077097505669
+    },
+    "SPEAKER_03": {
+      "voice_type": "male",
+      "characteristics": {
+        "pitch": "high, bright",
+        "pace": "moderate pace",
+        "tone": "balanced, clear",
+        "avg_pitch_hz": 741.6610107421875
+      },
+      "first_appearance": 123.17024943310658
+    },
+    "SPEAKER_01": {
+      "voice_type": "neutral",
+      "characteristics": {
+        "pitch": "high, bright",
+        "pace": "moderate pace",
+        "tone": "warm, smooth",
+        "avg_pitch_hz": 705.5584716796875
+      },
+      "first_appearance": 140.0627664399093
+    },
+    "SPEAKER_04": {
+      "voice_type": "male",
+      "characteristics": {
+        "pitch": "high, bright",
+        "pace": "fast, energetic",
+        "tone": "bright, crisp",
+        "avg_pitch_hz": 395.8787536621094
+      },
+      "first_appearance": 315.59401360544217
+    }
+  }
+}
