@@ -8,6 +8,7 @@ models, then regenerates the video and soundtrack from that text with
 generative models.
 
 > **Result:** a 10-minute, 190 MB film clip became **142.1 KB of text**
+> Sample outputs are in [`examples/`](examples/): the full video blueprint and an excerpt of the audio blueprint.
 > (92.7 KB video blueprint + 49.4 KB audio blueprint), a compression ratio of
 > roughly **1,300x**, then was regenerated from that text alone.
 
